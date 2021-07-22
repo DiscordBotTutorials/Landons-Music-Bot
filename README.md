@@ -28,6 +28,9 @@ node index.js
 
 and that is it!
 
+Results:
+![image](https://user-images.githubusercontent.com/75545991/126708328-5707f6cb-bc75-4f49-869a-e65ef07730b2.png)
+
 Please subscribe to [Discord Bot Tutorials](https://www.youtube.com/channel/UCQqkYv3qVlpvc4_n1M8PA4w?sub_confirmation=1) on YouTube if this helped you out.
 
 Feel free to use it (give a little credit).
