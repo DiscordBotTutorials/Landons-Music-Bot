@@ -10,7 +10,7 @@ Make sure you have your project to Node.js.
 ![image](https://user-images.githubusercontent.com/75545991/126704385-4fa4daa3-4bb7-4dca-8c48-e2cfe176b7e8.png)
 3. Then copy the github link.
 ![image](https://user-images.githubusercontent.com/75545991/126716231-33a773e5-754b-4d09-94c6-ebc2e5a74fb2.png)
-4. And instert it into the textbox like this.
+4. And insert it into the textbox like this.
 ![image](https://user-images.githubusercontent.com/75545991/126704631-12ab8885-1b90-4898-b1d6-b434d87360eb.png)
 5. Then go to info.json and change the following.
 ```
