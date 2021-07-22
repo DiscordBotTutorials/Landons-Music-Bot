@@ -23,4 +23,4 @@ and that is it!
 
 Please subscribe to [Discord Bot Tutorials](https://www.youtube.com/channel/UCQqkYv3qVlpvc4_n1M8PA4w?sub_confirmation=1) on YouTube if this helped you out.
 
-Feel free to use it.
+Feel free to use it (give a little credit).
