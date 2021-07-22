@@ -1,7 +1,7 @@
 # Landon's Music Bot
 
 # What is this?
-This is a simple music bot that you can use made with distube and discord.js.
+This is a simple music bot that you can use made with **[distube](https://distube.js.org/index.html#/)** and [discord.js](https://discord.js.org/#/).
 Make sure you have your project to Node.js.
 
 # Instructions
