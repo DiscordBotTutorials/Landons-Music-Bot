@@ -17,7 +17,14 @@ Make sure you have your project to Node.js.
     "token": "YOUR BOT TOKEN"
 }
 ```
-6. Click on run.
+6. Then do the following.
+```
+npm install
+```
+7. Click on run or this.
+```
+node index.js
+```
 
 and that is it!
 
