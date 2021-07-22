@@ -35,4 +35,4 @@ Please subscribe to [Discord Bot Tutorials](https://www.youtube.com/channel/UCQq
 
 Feel free to use it (give a little credit).
 
-If you have any problems please contact me on via Discord at Landon E#0001.
+If you have any problems please contact me on via Discord at **Landon E#0001**.
