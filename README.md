@@ -11,7 +11,7 @@ Make sure you have your project to Node.js.
 3. Then copy the github link.
 4. And instert it into the textbox like this.
 ![image](https://user-images.githubusercontent.com/75545991/126704631-12ab8885-1b90-4898-b1d6-b434d87360eb.png)
-5. Then go to info an change the following.
+5. Then go to info.json and change the following.
 ```
 {
     "token": "YOUR BOT TOKEN"
